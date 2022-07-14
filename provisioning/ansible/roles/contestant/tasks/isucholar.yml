@@ -19,14 +19,14 @@
 
 - name: "roles/contestant/tasks/isucholar: Include isucholar-go.yml"
   include: isucholar-go.yml
-- name: "roles/contestant/tasks/isucholar: Include isucholar-nodejs.yml"
-  include: isucholar-nodejs.yml
-- name: "roles/contestant/tasks/isucholar: Include isucholar-rust.yml"
-  include: isucholar-rust.yml
-- name: "roles/contestant/tasks/isucholar: Include isucholar-php.yml"
-  include: isucholar-php.yml
-- name: "roles/contestant/tasks/isucholar: Include isucholar-ruby.yml"
-  include: isucholar-ruby.yml
+#- name: "roles/contestant/tasks/isucholar: Include isucholar-nodejs.yml"
+#  include: isucholar-nodejs.yml
+#- name: "roles/contestant/tasks/isucholar: Include isucholar-rust.yml"
+#  include: isucholar-rust.yml
+#- name: "roles/contestant/tasks/isucholar: Include isucholar-php.yml"
+#  include: isucholar-php.yml
+#- name: "roles/contestant/tasks/isucholar: Include isucholar-ruby.yml"
+#  include: isucholar-ruby.yml
 
 
 
